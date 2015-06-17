@@ -1,0 +1,11 @@
+* Compact Dust Concentration in the MWC758 Protoplanetary Disk
+** Abstract
+
+** Introduction
+
+** Observations and Imaging
+Image synthesis method: Maximum Entropy Method(MEM)
++ beamforming:[[https://en.wikipedia.org/wiki/Beamforming]]
+  + Maximum Entropy Method:[[http://cmm.cit.nih.gov/maxent/letsgo.html]]
+  + Standard Clean beam:[[http://www.cv.nrao.edu/~abridle/deconvol/node16.html#SECTION00059000000000000000]]
+  + Briggs Weighting:[[http://casa.nrao.edu/stable/docs/UserMan/UserMansu263.html]]
