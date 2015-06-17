@@ -10,3 +10,4 @@ Image synthesis method: Maximum Entropy Method(MEM)
   + Standard Clean beam:[[http://www.cv.nrao.edu/~abridle/deconvol/node16.html#SECTION00059000000000000000]]
   + Briggs Weighting:[[http://casa.nrao.edu/stable/docs/UserMan/UserMansu263.html]]
 *** VLA image
+fig
