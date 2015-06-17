@@ -1,1 +1,6 @@
 * Dust Learning
+** Vocabulary
+*** Infraed Excess
+An infrared excess is a measurement of an astronomical source, typically a star, that in their spectral energy distribution has a greater measured infrared flux than expected by assuming the star is a blackbody radiator. Infrared excesses are often the result of circumstellar dust and are common in young stellar objects and evolved stars on the asymptotic giant branch or older.
+*** Transitional Disk
+Transitional disks are protoplanetary disks around young stars, with inner holes or gaps which are surrounded by optically thick outer, and often inner, disks.
